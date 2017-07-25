@@ -1,0 +1,28 @@
+/**index.wxss**/
+.bottom-area{
+	width:100%;
+	display:flex;
+	position:absolute;
+	bottom:0;
+	color:#fff
+	
+}
+.publish,.search{
+	width:50%;
+	text-align:center;
+	height:42px;
+	line-height:42px
+}
+.publish{
+	background:#ff9700;
+}
+.search{
+	background:#03bbd5
+}
+.map-con{
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 84rpx
+}
